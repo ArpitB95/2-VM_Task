@@ -49,6 +49,8 @@ sudo apt-get upgrade -y
 ## Install nginx
 sudo apt-get install nginx -y
 
+sudo systemctl enable ngninx # to enable nginx
+
 sudo systemctl start nginx  # to start nginx
 
 ## Download nodejs version 6 or above
