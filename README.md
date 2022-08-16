@@ -69,7 +69,7 @@ sudo npm install pm2 -g
 - We need to create reverse proxy in VM-1 (app)
 - To do that, first run 'vagrant ssh app'
 - Inside app VM run 'sudo nano /etc/nginx/sites-available/default'
-- Now, you'll land into default file, in that file go to the location block and add 'proxy_pass http://localhost:3000;'
+- Now, you'll land into default file, in that file go to the server_name and under location block add 'proxy_pass http://localhost:3000;'
 
 
 <img width="368" alt="rever pro" src="https://user-images.githubusercontent.com/110182832/184925072-e983257e-5b8b-4ff4-83a4-24ed078062db.png">
