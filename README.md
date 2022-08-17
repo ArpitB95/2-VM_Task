@@ -77,3 +77,8 @@ sudo npm install pm2 -g
 - after editing, save it and exit the file.
 - Now, check the syntax error by running 'sudo nginx -t'
 - Now go to app/app and run 'npm start'
+
+
+
+<img width="712" alt="new today dia" src="https://user-images.githubusercontent.com/110182832/185105510-99e1b8b0-238e-40be-b1dc-0e18d5306d55.png">
+
