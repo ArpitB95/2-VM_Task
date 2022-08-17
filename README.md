@@ -82,3 +82,8 @@ sudo npm install pm2 -g
 
 <img width="712" alt="new today dia" src="https://user-images.githubusercontent.com/110182832/185105510-99e1b8b0-238e-40be-b1dc-0e18d5306d55.png">
 
+
+
+<img width="301" alt="final add" src="https://user-images.githubusercontent.com/110182832/185172041-e6581e1f-2452-4cc3-afc1-6a534a2441eb.png">
+
+
